@@ -162,3 +162,8 @@ hr {
     border-radius: 50%;
     background-color: dodgerblue;
 }
+.P {
+    text-align: center;
+    display: inline;
+    margin-left: 35px;
+}
